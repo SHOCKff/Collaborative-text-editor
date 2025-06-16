@@ -31,5 +31,5 @@ In conclusion, this web-based text editor is a practical demonstration of full-s
 I have learned a lot during this project — from setting up development environments to deploying the app — and it gave me a lot of confidence to handle real-world development tasks. It is my small step towards becoming a professional full-stack developer.
 
 #OUTPUT 
-
+![Image](https://github.com/user-attachments/assets/2f287703-a64f-4b4e-9fde-e4c909631814)
 
